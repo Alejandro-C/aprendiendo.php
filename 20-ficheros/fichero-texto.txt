@@ -1,0 +1,2 @@
+soy un texto en un fichero
+que tal??...bien. Soy un texto digitado desde php<br>bien. Soy un texto digitado desde php
